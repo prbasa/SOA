@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="ISO8859-1"?>
+<?xml-stylesheet type="text/css" href="pessoas.css"?>
+<pessoas>
+	<pessoa>
+		<nome>João</nome>
+		<sobrenome>da Silva</sobrenome>
+		<endereco>Rua da Independencia, 25</endereco>
+		<cidade>São Paulo</cidade>
+		<estado>SP</estado>
+		<cep>15015-500</cep>
+		<telefone>(34)3222-2344</telefone>
+		<celular>(34)3222-2344</celular>
+    </pessoa>
+	<pessoa>
+		<nome>Maria</nome>
+		<sobrenome>Jose</sobrenome>
+		<endereco>Rua da California, 44</endereco>
+		<cidade>São Paulo</cidade>
+		<estado>SP</estado>
+		<cep>15015-500</cep>
+		<telefone>(34)3222-2344</telefone>
+		<celular>(34)3222-2344</celular>
+    </pessoa>
+    <pessoa>
+		<nome>Sebastiana</nome>
+		<sobrenome>Joaquina</sobrenome>
+		<endereco>Av da Independencia, 25</endereco>
+		<cidade>São Paulo</cidade>
+		<estado>SP</estado>
+		<cep>15015-500</cep>
+		<telefone>(34)3222-2344</telefone>
+		<celular>(34)3222-2344</celular>
+    </pessoa>
+    <pessoa>
+		<nome>João</nome>
+		<sobrenome>da Silva</sobrenome>
+		<endereco>Rua da Independencia, 25</endereco>
+		<cidade>São Paulo</cidade>
+		<estado>SP</estado>
+		<cep>15015-500</cep>
+		<telefone>(34)3222-2344</telefone>
+		<celular>(34)3222-2344</celular>
+    </pessoa>
+    <pessoa>
+		<nome>João</nome>
+		<sobrenome>da Silva</sobrenome>
+		<endereco>Rua da Independencia, 25</endereco>
+		<cidade>São Paulo</cidade>
+		<estado>SP</estado>
+		<cep>15015-500</cep>
+		<telefone>(34)3222-2344</telefone>
+		<celular>(34)3222-2344</celular>
+    </pessoa>
+    <pessoa>
+		<nome>João</nome>
+		<sobrenome>da Silva</sobrenome>
+		<endereco>Rua da Independencia, 25</endereco>
+		<cidade>São Paulo</cidade>
+		<estado>SP</estado>
+		<cep>15015-500</cep>
+		<telefone>(34)3222-2344</telefone>
+		<celular>(34)3222-2344</celular>
+    </pessoa>
+    <pessoa>
+		<nome>João</nome>
+		<sobrenome>da Silva</sobrenome>
+		<endereco>Rua da Independencia, 25</endereco>
+		<cidade>São Paulo</cidade>
+		<estado>SP</estado>
+		<cep>15015-500</cep>
+		<telefone>(34)3222-2344</telefone>
+		<celular>(34)3222-2344</celular>
+    </pessoa>
+    <pessoa>
+		<nome>João</nome>
+		<sobrenome>da Silva</sobrenome>
+		<endereco>Rua da Independencia, 25</endereco>
+		<cidade>São Paulo</cidade>
+		<estado>SP</estado>
+		<cep>15015-500</cep>
+		<telefone>(34)3222-2344</telefone>
+		<celular>(34)3222-2344</celular>
+    </pessoa>
+    <pessoa>
+		<nome>João</nome>
+		<sobrenome>da Silva</sobrenome>
+		<endereco>Rua da Independencia, 25</endereco>
+		<cidade>São Paulo</cidade>
+		<estado>SP</estado>
+		<cep>15015-500</cep>
+		<telefone>(34)3222-2344</telefone>
+		<celular>(34)3222-2344</celular>
+    </pessoa>
+    <pessoa>
+		<nome>João</nome>
+		<sobrenome>da Silva</sobrenome>
+		<endereco>Rua da Independencia, 25</endereco>
+		<cidade>São Paulo</cidade>
+		<estado>SP</estado>
+		<cep>15015-500</cep>
+		<telefone>(34)3222-2344</telefone>
+		<celular>(34)3222-2344</celular>
+    </pessoa>
+    <pessoa>
+		<nome>João</nome>
+		<sobrenome>da Silva</sobrenome>
+		<endereco>Rua da Independencia, 25</endereco>
+		<cidade>São Paulo</cidade>
+		<estado>SP</estado>
+		<cep>15015-500</cep>
+		<telefone>(34)3222-2344</telefone>
+		<celular>(34)3222-2344</celular>
+    </pessoa>
+</pessoas>

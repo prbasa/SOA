@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE note SYSTEM "livros.dtd"
+<livros>
+	<livro>
+		<titulo>Os deuses gregos</titulo>
+		<autor>José Ramalho</autor>
+		<encadernacao>Capa dura</encadernacao>
+		<nropaginas>32</nropaginas>
+		<valor>22,50</valor>
+	</livro>
+
+	<livro>
+		<titulo>Gabriela Cravo e Canela</titulo>
+		<autor>Jorge Amado</autor>
+		<encadernacao>Brochura</encadernacao>
+		<nropaginas>422</nropaginas>
+		<valor>27,50</valor>
+	</livro>
+
+	<livro>
+		<titulo>HTML Dinâmico</titulo>
+		<autor>José Ramalho</autor>
+		<encadernacao>Capa Dura</encadernacao>
+		<nropaginas>873</nropaginas>
+		<valor>90,90</valor>
+	</livro>
+
+	<livro>
+		<titulo>O Senhor dos Anéis</titulo>
+		<autor>Tolkien</autor>
+		<encadernacao>Brochura</encadernacao>
+		<nropaginas>900</nropaginas>
+		<valor>70</valor>
+	</livro>
+
+	<livro>
+		<titulo>Antigonia</titulo>
+		<autor>Herodoto</autor>
+		<encadernacao>Capa Dura</encadernacao>
+		<nropaginas>253</nropaginas>
+		<valor>24,55</valor>
+	</livro>
+</livros>

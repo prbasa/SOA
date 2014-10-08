@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pessoa>
+<nome>João da Silva</nome>
+<endereco>Rua da Independencia, 25</endereco>
+<cep>15015-500</cep>
+<cidade>São Paulo</cidade>
+<estado>SP</estado>
+
+</pessoa>
